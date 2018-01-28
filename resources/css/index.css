@@ -45,3 +45,9 @@ a {
     padding: 8px;
     background-color: #dddddd;
 }
+
+.cat {
+  width: 1200px;
+  height: 800px;
+  background-image: url("../images/crap.jpg")
+}
