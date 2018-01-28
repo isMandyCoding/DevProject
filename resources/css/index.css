@@ -1,0 +1,47 @@
+* {
+  font-family: Calibri, Arial, sans-serif;
+  background-color: teal;
+  text-align: left;
+  width: 450px;
+  margin: auto;
+}
+
+body {
+  color: coral;
+}
+h1 {
+  color: Coral;
+  text-align: center;
+  background-color: navy;
+  position: relative;
+  height: 150px;
+  width: fill-available;
+}
+
+
+p,
+li {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #;
+}
+
+.navigation li {
+    float: left;
+}
+
+.navigation a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
